@@ -20,7 +20,5 @@ public class Queue {
         return people;
     }
 
-    public static void myMethod() {
-        System.out.println("My Function called");
-    }
+    
 }
